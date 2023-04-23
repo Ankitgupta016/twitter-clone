@@ -39,11 +39,11 @@ const Posts = () => {
         <div className="post-image">
           <img src={img1} alt="" />
           <div className="post-react">
-           <span><BiMessageRounded className="icons"/> 306</span>
-           <span><FaRetweet className="icons"/> 500</span>
-           <span><AiOutlineHeart className="icons"/> 900</span>
-           <span><BiBarChart className="icons"/> 578.5K</span>
-           <span><AiOutlineUpload className="icons"/></span>
+           <span><BiMessageRounded className="icon"/> 306</span>
+           <span><FaRetweet className="icon"/> 500</span>
+           <span><AiOutlineHeart className="icon"/> 900</span>
+           <span><BiBarChart className="icon"/> 578.5K</span>
+           <span><AiOutlineUpload className="icon"/></span>
           </div>
         </div>
         </div>
@@ -73,11 +73,11 @@ const Posts = () => {
         <div className="post-image">
           <img src={img2} alt="" />
           <div className="post-react">
-           <span><BiMessageRounded className="icons"/> 306</span>
-           <span><FaRetweet className="icons"/> 500</span>
-           <span><AiOutlineHeart className="icons"/> 900</span>
-           <span><BiBarChart className="icons"/> 578.5K</span>
-           <span><AiOutlineUpload className="icons"/></span>
+           <span><BiMessageRounded className="icon"/> 306</span>
+           <span><FaRetweet className="icon"/> 500</span>
+           <span><AiOutlineHeart className="icon"/> 900</span>
+           <span><BiBarChart className="icon"/> 578.5K</span>
+           <span><AiOutlineUpload className="icon"/></span>
           </div>
         </div>
         </div>
@@ -104,13 +104,13 @@ const Posts = () => {
           </span>
         </div>
         <div className="post-image">
-          <img src={img5} alt="" />
+          <img src={img5} alt=""  style={{border:"none"}}/>
           <div className="post-react">
-           <span><BiMessageRounded className="icons"/> 306</span>
-           <span><FaRetweet className="icons"/> 500</span>
-           <span><AiOutlineHeart className="icons"/> 900</span>
-           <span><BiBarChart className="icons"/> 578.5K</span>
-           <span><AiOutlineUpload className="icons"/></span>
+           <span><BiMessageRounded className="icon"/> 306</span>
+           <span><FaRetweet className="icon"/> 500</span>
+           <span><AiOutlineHeart className="icon"/> 900</span>
+           <span><BiBarChart className="icon"/> 578.5K</span>
+           <span><AiOutlineUpload className="icon"/></span>
           </div>
         </div>
         </div>
