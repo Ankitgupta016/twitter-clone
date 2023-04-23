@@ -764,6 +764,7 @@ h3 {
     width: 15%;
     height: 5%;
     border: none;
+    z-index: 99999;
   }
   .posts {
     width: 100%;
@@ -831,10 +832,10 @@ h3 {
     padding: 2px 0;
     padding-left: 12px;
   }
-  .icon {
-    margin-right: 7px;
-    font-size: 22px;
-  }
+.icon {
+    font-size: 20px;
+    margin-right: 0px;
+}
   .follow .main-div {
     font-size: 13px;
   }
