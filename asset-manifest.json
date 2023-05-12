@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/twitter-clone/static/css/main.4c5d5a48.css",
-    "main.js": "/twitter-clone/static/js/main.44823fff.js",
-    "static/js/787.e8607b80.chunk.js": "/twitter-clone/static/js/787.e8607b80.chunk.js",
-    "static/media/1.jpg": "/twitter-clone/static/media/1.c853cc8e8b4aff6a3313.jpg",
-    "static/media/2.jpg": "/twitter-clone/static/media/2.9d19d5b24205ca0d729d.jpg",
-    "static/media/5.jpg": "/twitter-clone/static/media/5.9bff06dbad8a0dd3e121.jpg",
-    "static/media/3.jpg": "/twitter-clone/static/media/3.506556076b2f6e96b785.jpg",
-    "static/media/logo.jpg": "/twitter-clone/static/media/logo.5bebf6cb3fe94218f23f.jpg",
-    "static/media/4.jpg": "/twitter-clone/static/media/4.cd1d3568639216243fbb.jpg",
-    "index.html": "/twitter-clone/index.html",
-    "main.4c5d5a48.css.map": "/twitter-clone/static/css/main.4c5d5a48.css.map",
-    "main.44823fff.js.map": "/twitter-clone/static/js/main.44823fff.js.map",
-    "787.e8607b80.chunk.js.map": "/twitter-clone/static/js/787.e8607b80.chunk.js.map"
+    "main.css": "/twitter/static/css/main.4c5d5a48.css",
+    "main.js": "/twitter/static/js/main.3778f340.js",
+    "static/js/787.e8607b80.chunk.js": "/twitter/static/js/787.e8607b80.chunk.js",
+    "static/media/1.jpg": "/twitter/static/media/1.c853cc8e8b4aff6a3313.jpg",
+    "static/media/2.jpg": "/twitter/static/media/2.9d19d5b24205ca0d729d.jpg",
+    "static/media/5.jpg": "/twitter/static/media/5.9bff06dbad8a0dd3e121.jpg",
+    "static/media/3.jpg": "/twitter/static/media/3.506556076b2f6e96b785.jpg",
+    "static/media/logo.jpg": "/twitter/static/media/logo.5bebf6cb3fe94218f23f.jpg",
+    "static/media/4.jpg": "/twitter/static/media/4.cd1d3568639216243fbb.jpg",
+    "index.html": "/twitter/index.html",
+    "main.4c5d5a48.css.map": "/twitter/static/css/main.4c5d5a48.css.map",
+    "main.3778f340.js.map": "/twitter/static/js/main.3778f340.js.map",
+    "787.e8607b80.chunk.js.map": "/twitter/static/js/787.e8607b80.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4c5d5a48.css",
-    "static/js/main.44823fff.js"
+    "static/js/main.3778f340.js"
   ]
 }
